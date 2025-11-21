@@ -1,6 +1,6 @@
 ## Hi 👋, Sou um desenvolvedor focado em **.NET e C#**, apaixonado por **desenvolver APIs REST**, automatizar processos e contribuir para **projetos open source**.  
 
-# Olá, eu sou Vanderley Manhica 👋
+# 👋
 
 **Backend Developer | C# | .NET | APIs | Open Source**
 
